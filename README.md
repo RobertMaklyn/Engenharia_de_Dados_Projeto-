@@ -21,7 +21,7 @@ Azure SQL: como banco de dados
 
 Azure Key Vault: para armazenamento seguro de senhas/credenciais, cadeias de conexão por meio de "segredos"
 
-![imagemnova2](/fotos/imagemnova2.PNG)
+![imagemnova2](https://github.com/RobertMaklyn/Engenharia_de_Dados_Projeto-/assets/147719579/4c32efaf-450b-4441-99f8-a98c1a4ef549)
 
 2 – Crie um contêiner no Azure Data Lake Storage com diretórios landing-zone, bronze, prata e ouro para armazenamento de dados em suas respectivas camadas
 
