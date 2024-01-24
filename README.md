@@ -35,7 +35,7 @@ Azure Key Vault: para armazenamento seguro de senhas/credenciais, cadeias de con
 
 7 – Acesse a instância do Azure Data Factory, crie um pipeline, no painel de atividades, expanda a opção databricks, selecione os notebook. Configure serviços vinculados, configure os caminhos do notebook e vincule a execução sequencial de notebooks em caso de execução bem-sucedida.
 
-![imagem3](/fotos/imagem3.PNG)
+![imagem3](https://github.com/RobertMaklyn/Engenharia_de_Dados_Projeto-/assets/147719579/44416e3a-8f43-4c5f-b060-30294400d277)
 
 
 8 - Valide o pipeline, salve e debug.
