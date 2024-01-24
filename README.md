@@ -6,8 +6,8 @@ camada prata: trata os dados removendo valores nulos,
 camada ouro: é feito um join entre as tabelas 
 
 ## Arquitetura
-![imagem1](/![imagem1](https://github.com/RobertMaklyn/Engenharia_de_Dados_Projeto-/assets/147719579/45ccd112-1811-4310-96f3-8a3b6675fb22)
-)  
+![imagem1](https://github.com/RobertMaklyn/Engenharia_de_Dados_Projeto-/assets/147719579/4a89586d-4f9c-4528-b412-27d41dba67b0)
+
 
 1 – Na sua conta do Microsoft Azure, crie um grupo de recursos contendo os seguintes recursos:
 
