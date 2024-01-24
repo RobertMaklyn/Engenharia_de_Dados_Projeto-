@@ -42,7 +42,8 @@ Azure Key Vault: para armazenamento seguro de senhas/credenciais, cadeias de con
 
 9 – Você pode verificar se os dados foram salvos em cada respectivo diretório no Azure Data Lake Storage.
 
-![imagem4](/fotos/imagem4.PNG)
+![imagem4](https://github.com/RobertMaklyn/Engenharia_de_Dados_Projeto-/assets/147719579/d36b98f0-1346-4bb1-b6d1-240b9b10bec8)
+
 
 Você pode verificar o código clicando [aqui](https://github.com/RobertMaklyn/Engenharia_de_Dados_Projeto-/tree/master/azure_data_bricks_notbooks)
 
