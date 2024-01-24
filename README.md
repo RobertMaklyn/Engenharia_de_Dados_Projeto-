@@ -1,4 +1,4 @@
-# Engenharia-de-Dados-_Projeto   
+# Engenharia_de_Dados_Projeto   
 O objetivo do projeto é consumir dados de uma banco de dados, persisti-los em uma arquitetura de data lake com três camadas, sendo a primeira de dados brutos, a segunda com tratamento nos dados, e a terceira contendo dados analíticos agregados.
 
 camada bronze: recebe os dados brutos e transforma no formato delta, 
